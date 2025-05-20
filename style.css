@@ -1,0 +1,67 @@
+БитваЭкстрасенсов {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 20px;
+}
+
+Название {
+    display: block;
+    text-align: center;
+    font-size: 2em; /* Увеличен размер шрифта */
+    color: purple; /* Цвет текста */
+    padding: 5px; /* Отступы */
+    margin-bottom: 5px; /* Нижний отступ */
+}
+
+Сезон {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px; /* Отступ между сезонами */
+    display: block; /* Блоки отображаются как блочные элементы */
+}
+
+Номер {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #e74c3c;
+}
+
+Участники {
+    margin-top: 10px;
+}
+
+Участник {
+    background-color: #ecf0f1;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0; /* Отступы сверху и снизу для участников */
+    display: block; /* Блочные элементы */
+}
+
+Имя {
+    font-weight: bold;
+    color: #3498db;
+}
+
+Способности {
+    margin-top: 5px;
+}
+
+Способность {
+    color: #16a085;
+    list-style-type: none;
+}
+
+Статус {
+    color: blue;
+    list-style-type: none;
+}
+
+Автор {
+    color: black;
+    text-align: right;
+}
